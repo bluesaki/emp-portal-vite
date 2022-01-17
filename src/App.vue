@@ -8,7 +8,7 @@ const links = [
 </script>
 
 <template>
-  <Navbar title="DemoApp" :links="links" />
+  <Navbar title="Employer Portal" :links="links" />
   <div class="pt-20">
     <router-view />
   </div>
